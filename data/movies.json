@@ -1,0 +1,6 @@
+[
+  {"title": "Inception", "genre": ["Action","Sci-Fi"], "year": 2010, "rating": 8.8},
+  {"title": "The Godfather", "genre": ["Crime","Drama"], "year": 1972, "rating": 9.2},
+  {"title": "The Lion King", "genre": ["Animation","Adventure"], "year": 1994, "rating": 8.5},
+  {"title": "Avengers: Endgame", "genre": ["Action","Adventure","Sci-Fi"], "year": 2019, "rating": 8.4}
+]

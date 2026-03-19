@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movie Recommender</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="heading">Movie Recommender</div>
+    <div class="select">
+      <label for="genre" class="choose">Choose a Genre:</label>
+      <select id="genre" name="genre">
+        <option value="horror">Horror</option>
+        <option value="comedy">Comedy</option>
+        <option value="sci-fi">Sci-Fi</option>
+        <option value="romance">Romance</option>
+      </select>
+      <button id="submit">Search Movie</button>
+    </div>
+
+    <div id="moviesContainer" class="movies-container">
+      <!-- Movie cards will be fetched here  -->
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
