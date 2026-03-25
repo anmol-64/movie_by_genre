@@ -1,4 +1,4 @@
-const API_KEY = "ee147294593c262c89f0a275399f289a";
+const API_KEY = "YOUR_API_KEY_HERE";
 
 const genreMap = {
   horror: 27,
